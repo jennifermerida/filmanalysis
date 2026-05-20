@@ -3,10 +3,10 @@ CPSC 393 - Machine Learning Final Project
 
 **Project Title:** Film Analysis
 
-**Setup Instructions:** 
-    - Dependencies/Libraries: : pandas, numpy, matplotlib, plotnine, scikit-learn
-    - Tools required: Jupyter Notebook or Google Colab to run this code
-    - Installation Steps: There is no need to run a command on the terminal in order for this ipynb to run. The run button can be hit on VS Code or Google Colab without any complications.  
+**Setup Instructions:** \
+    - Dependencies/Libraries: : pandas, numpy, matplotlib, plotnine, scikit-learn\
+    - Tools required: Jupyter Notebook or Google Colab to run this code\
+    - Installation Steps: There is no need to run a command on the terminal in order for this ipynb to run. The run button can be hit on VS Code or Google Colab without any complications. \ 
 
 **Dataset Information:** The dataset will be submitted with has been included in this repo and will be submitted alongside the source code on Canvas
 
